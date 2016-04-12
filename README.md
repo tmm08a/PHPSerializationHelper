@@ -1,2 +1,2 @@
 # PHPSerializationHelper
-Burp Extension to help an attacker perform PHP Serialization attacks
+Burp Extension to help perform PHP Serialization attacks
